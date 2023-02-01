@@ -5,7 +5,7 @@
     <tr>
       <td align="left" width="60%">
         <h1 align="left">Hi 👋, I'm José Toledo</h1>
-<h3 align="left">I'm always changing what I do, in the last 5 years I started college at 17, tried the competitive online gaming life at 19 where I did really well for a while, became a streamer for about 3 years where I but I did well financially, I studied to be a poker professional for over a year until I understood that I needed something more concrete for my life, so I returned to my life as a programmer a year ago and I'm enjoying it a lot because I'm always learning new technologies and always have a multitude of things to learn. Follow my evolutions below:</h3>
+<h3 align="left">I'm always changing what I do, in the last 5 years I started college at 17, tried the competitive online gaming life at 19 where I did really well for a while, became a streamer for about 3 years where I did well financially, I studied to be a poker professional for over a year until I understood that I needed something more concrete for my life, so I returned to my life as a programmer a year ago and I'm enjoying it a lot because I'm always learning new technologies and always have a multitude of things to learn. Follow my evolutions below:</h3>
    </td></tr>
   </tbody>
 </table>
