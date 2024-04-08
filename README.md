@@ -36,9 +36,6 @@
 <br>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhuvis&show_icons=true&locale=en&layout=compact" alt="jhuvis" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhuvis&show_icons=true&locale=en" alt="jhuvis" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhuvis&" alt="jhuvis" /></p>
   
 <p dir="auto"><br><br></p>
