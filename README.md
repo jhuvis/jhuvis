@@ -6,7 +6,6 @@ Hello! Welcome to my GitHub!
       <td align="left" width="60%">
         <h1 align="left">Hi 👋, I'm José Toledo</h1>
         <p align="left">
-          I'm always changing what I do. In the last 5 years, I started college at 17, tried competitive online gaming at 19, became a streamer for about 3 years, studied to be a poker professional, and now I've returned to programming. I've been a programmer since 2022 and enjoy learning new technologies and constantly evolving. Follow my journey below:
         </p>
       </td>
     </tr>
